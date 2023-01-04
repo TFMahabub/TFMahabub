@@ -9,7 +9,7 @@
 
 ## 🧐 **Current Overview**:
 
-- 🔭 I’m currently working at Unpaid InternShip
+- 🔭 I’m currently working at InternShip
 
 - 🌱 I’m currently exploring **Next.js & JavaScript Problem Solving**
 
