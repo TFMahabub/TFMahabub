@@ -9,14 +9,14 @@
 
 ## 🧐 **Current Overview**:
 
-- 🔭 I’m currently working at **Programming Hero**
+- 🔭 I’m currently working at Unpaid InternShip
 
-- 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
+- 🌱 I’m currently exploring **Next.js & JavaScript Problem Solving**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - ⚡ Fun fact **I love coding and creating awesome websites**
-- 📫 How to reach me **tanmoyparvez23@gamil.com**
+- 📫 How to reach me **rjmahabub543@gamil.com**
 
 <br/>
 
