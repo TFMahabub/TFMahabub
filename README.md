@@ -47,10 +47,9 @@
 
 <p align="left">
 
-<a href = "https://www.facebook.com/TanmoyParvez23/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/tanmoy-parvez/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/tanmoyparvez/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:tanmoyparvez23@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC7TKoePmJ8Q2vMrm6VFDrtg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/tfmahabub543/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/tfmahabub/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/tf_mahabub/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:rjmahabub543@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 </p>
