@@ -3,53 +3,24 @@
 <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/KD5wh8F/Cover-Pic.jpg"/></a>
 </br>
 
-<div style="text-align:center">
-    <h1><b>"Hello World!"</b></h1>
-</div>
+# 💫 About Me:
+🔭 I’m currently working at InternShip<br>🌱 I’m currently exploring Next.js & JavaScript Problem Solving<br>👯 I’m looking to collaborate on Open Source Projects<br>⚡ Fun fact I love coding and creating awesome websites<br>📫 How to reach me rjmahabub543@gamil.com
 
-## 🧐 **Current Overview**:
 
-- 🔭 I’m currently working at InternShip
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tfmahabub543) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tf_mahabub/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tfmahabub/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18172301/mahabub-alam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/tf_mahabubb) 
 
-- 🌱 I’m currently exploring **Next.js & JavaScript Problem Solving**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TFMahabub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TFMahabub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TFMahabub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/tf_mahabubb)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- ⚡ Fun fact **I love coding and creating awesome websites**
-- 📫 How to reach me **rjmahabub543@gamil.com**
+---
+[![](https://visitcount.itsvg.in/api?id=TFMahabub&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-## 💻 **Technologies And Tools**:
-
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="[https://.com](https://tailwindcss.com/)" target="_blank"> <img src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" width="50px"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="40px"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
-
-<br/>
-
-## 🚀 **Current Github Status**:
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez" wid/>
-
-<br/>
-
-## 📱 **Reach Me**:
-
-<p align="left">
-
-<a href = "https://www.facebook.com/tfmahabub543/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/tfmahabub/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/tf_mahabub/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:rjmahabub543@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
